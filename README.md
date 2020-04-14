@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-Try [Tic-Tac-Toe](https://github.com/nikhilm19/React_Tic-Tac-Toe) here !
+Try [Tic-Tac-Toe](https://nikhilm19.github.io/React_Tic-Tac-Toe/) here !
 
 ## Available Scripts
 
