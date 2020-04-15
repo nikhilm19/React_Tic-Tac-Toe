@@ -241,7 +241,7 @@ class Game extends React.Component {
 
     var status,
       isDrawn = false;
-    if (winner === "X" || winner === "Y") {
+    if (winner === "X" || winner === "O") {
       status = "Winner: " + winner;
 
       console.log(status);
@@ -277,7 +277,7 @@ class Game extends React.Component {
           <div className="game-info">
             <GameInfoStatus
               status={
-                winner == "X" || winner == "Y"
+                winner == "X" || winner == "O"
                   ? "Winner: Player " + winner
                   : status
               }
